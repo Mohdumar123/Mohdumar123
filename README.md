@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 I'm Mohd Umar
+🌱 I'm currently learning javascript
 
 <!--
 **Mohdumar123/Mohdumar123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
