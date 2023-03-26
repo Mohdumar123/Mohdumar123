@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm Mohd Umar
-🌱 I'm currently learning javascript
+🌱 I'm currently learning django
 
 <!--
 **Mohdumar123/Mohdumar123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
